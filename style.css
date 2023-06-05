@@ -3,3 +3,9 @@ html , body {
     background-image: linear-gradient(45deg, darkgrey , lightgray);
     text-align: center;
 }
+
+
+.row img {
+    max-height: 600px;
+    margin-bottom: 10px;
+}
